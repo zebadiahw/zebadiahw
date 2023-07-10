@@ -1,7 +1,8 @@
 ## Welcome to My GitHub Profile
 Hello there! Welcome to my GitHub profile. Here you will find a collection of my projects and contributions. Feel free to explore and discover the work I have done.
 
-#**About Me**
+**About Me**
+
 I am a passionate developer with a keen interest in Angular. I enjoy creating innovative solutions and pushing the boundaries of what is possible. Through my projects, I strive to make a positive impact and contribute to the world of technology.
 
 **Projects**
